@@ -1,6 +1,6 @@
 # svelte-gradient-typography
 
-![sample gradient text](https://github.com/thetrisatria/svelte-gradient-typography/blob/main/misc/sample.jpg?raw=true)
+![sample gradient text](https://raw.githubusercontent.com/thetrisatria/svelte-gradient-typography/master/misc/sample.jpg)
 
 Gradient typography for [Svelte](https://svelte.dev) inspired by Apple's HomePod Mini landing page
 
