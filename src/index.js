@@ -1,1 +1,3 @@
-export { default as GradientText } from './Gradient.svelte';
+import GradientText from './Gradient.svelte';
+
+export default GradientText;
