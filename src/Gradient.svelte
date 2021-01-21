@@ -24,5 +24,6 @@
    letter-spacing: -.018em;
    line-height: 1;
    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   padding-bottom: 8px;
  }
 </style>
